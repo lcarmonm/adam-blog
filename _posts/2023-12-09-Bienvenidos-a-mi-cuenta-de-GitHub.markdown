@@ -1,4 +1,4 @@
 ---
-img: post-1.jpg # Add image post (optional)
+img: nueva-img.jpg # Add image post (optional)
 ---
-![Yosh Ginsu]({{site.baseurl}}/assets/img/yosh-ginsu.jpg)
+![Nueva Imagenn]({{site.baseurl}}/assets/img/nueva-img.jpg)
